@@ -1,7 +1,8 @@
 import React from 'react'
 import About from './component/about/About'
 import Header from './component/header/Header'
-import Testing from './Testing'
+import Testing from './component/testing/Testing'
+
 
 function App() {
   return (
